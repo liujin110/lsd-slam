@@ -1,0 +1,1 @@
+rosrun lsd_slam_core live_slam /image:=/image_raw _calib:='/home/liujin/catkin_ws/src/lsd_slam_catkin_16.04/lsd_slam_core/calib/lakliu.cfg'
